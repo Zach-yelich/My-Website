@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Zach Yelich's Webpage!
 
-You can use the [editor on GitHub](https://github.com/Zach-yelich/My-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey everyone, I'm a Sophomore ISAT major at JMU and i'm looking foward to a great semester 
+I plan on Double Concentrating in Biotechnology and Enviornment and i'm currently in the Honors college
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have used R in a previous class and i have tried to code before but with little success
 
 ```markdown
 Syntax highlighted code block
