@@ -10,4 +10,4 @@ I have used R in a previous class and i have tried to code before but with littl
 
 https://github.com/Zach-yelich/Hello-World
 
-![](Hello%20World%20Screenhot.png)
+![Hello world screenshot](https://user-images.githubusercontent.com/77746988/107997162-1e682100-6fb0-11eb-8a46-27591356a292.png)
