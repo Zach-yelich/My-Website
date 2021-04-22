@@ -15,3 +15,5 @@ https://github.com/Zach-yelich/Hello-World
 2. Completed Free Code Camp Scientific Computing Tutorial 
 I took a few weeks to go through all of the FCC tutorials for scientific computing in python. I took my time to not just go through the tutorial but watching every video which helped me learn more about python and coding.
 
+https://user-images.githubusercontent.com/77746988/115639488-b4873300-a2e2-11eb-961a-e0738c437613.png
+
