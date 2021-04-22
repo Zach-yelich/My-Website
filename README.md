@@ -18,5 +18,13 @@ I took a few weeks to go through all of the FCC tutorials for scientific computi
 ![image](https://user-images.githubusercontent.com/77746988/115639488-b4873300-a2e2-11eb-961a-e0738c437613.png)
 
 3.Hangman Game Project
-I used Python to make a hangman game in the terminal of vscode
+I used Python to make a hangman game in the terminal
 
+![image](https://user-images.githubusercontent.com/77746988/115640151-43e11600-a2e4-11eb-80a4-4c792cf3eda4.png)
+
+4.Flappy bird recreation project
+I used pygame to recreate the phone game flappy bird. i used images and sounds from the internet to make it have the appearance of the original. This game checks your score and keeps track of your high score 
+
+![image](https://user-images.githubusercontent.com/77746988/115640397-d84b7880-a2e4-11eb-84bf-6c331e4b893d.png)
+
+![image](https://user-images.githubusercontent.com/77746988/115640471-0a5cda80-a2e5-11eb-8958-4f5b451f1600.png)
