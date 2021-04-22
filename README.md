@@ -13,16 +13,19 @@ https://github.com/Zach-yelich/Hello-World
 ![Hello world screenshot](https://user-images.githubusercontent.com/77746988/107997162-1e682100-6fb0-11eb-8a46-27591356a292.png)
 
 2. Completed Free Code Camp Scientific Computing Tutorial 
+
 I took a few weeks to go through all of the FCC tutorials for scientific computing in python. I took my time to not just go through the tutorial but watching every video which helped me learn more about python and coding.
 
 ![image](https://user-images.githubusercontent.com/77746988/115639488-b4873300-a2e2-11eb-961a-e0738c437613.png)
 
 3.Hangman Game Project
+
 I used Python to make a hangman game in the terminal
 
 ![image](https://user-images.githubusercontent.com/77746988/115640151-43e11600-a2e4-11eb-80a4-4c792cf3eda4.png)
 
 4.Flappy bird recreation project
+
 I used pygame to recreate the phone game flappy bird. i used images and sounds from the internet to make it have the appearance of the original. This game checks your score and keeps track of your high score 
 
 ![image](https://user-images.githubusercontent.com/77746988/115640397-d84b7880-a2e4-11eb-84bf-6c331e4b893d.png)
